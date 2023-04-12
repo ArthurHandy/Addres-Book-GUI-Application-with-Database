@@ -1,5 +1,5 @@
 
-# AddressBookApplicationGUI
+# AddressBookApplicationGUI -> See [Wiki page](https://github.com/ArthurHandy/AddressBookApplicationGUI/wiki) for additional information.
 
 ## Project 2 Group7
 
