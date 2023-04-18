@@ -22,6 +22,8 @@ Oracle Instant Client (OCI) packages: [OCI download](https://www.oracle.com/data
 * `SQL*Plus Package`
 * `JDBC Supplement`
 
+How to connect to Oracle with OCI: [Oracle](https://www.jetbrains.com/help/idea/how-to-connect-to-oracle-with-oci.html#creating-the-oracle-oci-connection)
+
 ## Installing
 Clone the repository 
 
